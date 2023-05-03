@@ -1,0 +1,15 @@
+D:\WorkSpace\WebAPI\HighscoreManager\obj\Debug\net7.0\HighscoreManager.csproj.AssemblyReference.cache
+D:\WorkSpace\WebAPI\HighscoreManager\obj\Debug\net7.0\HighscoreManager.GeneratedMSBuildEditorConfig.editorconfig
+D:\WorkSpace\WebAPI\HighscoreManager\obj\Debug\net7.0\HighscoreManager.AssemblyInfoInputs.cache
+D:\WorkSpace\WebAPI\HighscoreManager\obj\Debug\net7.0\HighscoreManager.AssemblyInfo.cs
+D:\WorkSpace\WebAPI\HighscoreManager\obj\Debug\net7.0\HighscoreManager.csproj.CoreCompileInputs.cache
+D:\WorkSpace\WebAPI\HighscoreManager\bin\Debug\net7.0\HighscoreManager.exe
+D:\WorkSpace\WebAPI\HighscoreManager\bin\Debug\net7.0\HighscoreManager.deps.json
+D:\WorkSpace\WebAPI\HighscoreManager\bin\Debug\net7.0\HighscoreManager.runtimeconfig.json
+D:\WorkSpace\WebAPI\HighscoreManager\bin\Debug\net7.0\HighscoreManager.dll
+D:\WorkSpace\WebAPI\HighscoreManager\bin\Debug\net7.0\HighscoreManager.pdb
+D:\WorkSpace\WebAPI\HighscoreManager\obj\Debug\net7.0\HighscoreManager.dll
+D:\WorkSpace\WebAPI\HighscoreManager\obj\Debug\net7.0\refint\HighscoreManager.dll
+D:\WorkSpace\WebAPI\HighscoreManager\obj\Debug\net7.0\HighscoreManager.pdb
+D:\WorkSpace\WebAPI\HighscoreManager\obj\Debug\net7.0\HighscoreManager.genruntimeconfig.cache
+D:\WorkSpace\WebAPI\HighscoreManager\obj\Debug\net7.0\ref\HighscoreManager.dll
